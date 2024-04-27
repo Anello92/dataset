@@ -1,0 +1,101 @@
+Order ID,Order Date,Customer ID,Segment,Region,Country,Product ID,Category,Sub-Category,Sales,Quantity,Discount,Profit,Priority
+US-3014-9270,2021-07-01,JM-2375,Corporate,Central,United States,TEC-16540,Furniture,Tables,485.67,17,0.13,36.28,Medium
+US-3300-9527,2020-09-09,RH-9002,Home Office,West,United States,TEC-71810,Office Supplies,Art,1090.92,20,0.18,56.19,Medium
+US-9618-1100,2019-06-09,RH-1015,Consumer,South,United States,TEC-92527,Furniture,Tables,8679.29,14,0.08,843.97,Critical
+US-9095-8645,2022-02-21,RH-9218,Consumer,Central,United States,TEC-49388,Technology,Accessories,9280.06,11,0.21,118.85,Medium
+US-5948-5436,2021-06-05,CA-1056,Corporate,Central,United States,TEC-11330,Technology,Computers,6310.3,4,0.04,1092.23,Medium
+US-3572-4846,2020-09-09,RH-5552,Consumer,West,United States,TEC-67912,Furniture,Tables,8117.97,17,0.14,842.25,Low
+US-6960-1747,2022-08-10,JM-1985,Home Office,West,United States,TEC-79682,Office Supplies,Art,424.61,6,0.09,-9.67,Low
+US-2333-7852,2019-08-29,RH-5859,Consumer,West,United States,TEC-79991,Technology,Computers,6020.91,2,0.24,-1010.83,Medium
+US-5256-6258,2021-08-25,JM-6368,Consumer,East,United States,TEC-82374,Office Supplies,Storage,5605.43,11,0.27,-1115.64,Critical
+US-9788-1609,2020-08-07,CA-2279,Home Office,Central,United States,TEC-89766,Furniture,Furnishings,8790.47,18,0.28,-764.99,Critical
+US-4559-6523,2020-12-29,CA-2139,Corporate,East,United States,TEC-10680,Technology,Phones,5588.06,11,0.0,508.41,Low
+US-8658-5791,2019-10-15,JM-5452,Home Office,West,United States,TEC-31902,Office Supplies,Binders,2062.08,9,0.23,-140.01,Critical
+US-1545-9137,2020-02-05,CA-9801,Consumer,East,United States,TEC-22968,Technology,Accessories,1224.49,15,0.25,-184.03,Critical
+US-2104-9297,2020-05-30,CA-6963,Corporate,West,United States,TEC-60842,Furniture,Chairs,5782.2,2,0.06,495.44,Medium
+US-8133-4496,2021-04-22,RH-1441,Consumer,East,United States,TEC-12274,Office Supplies,Art,116.83,5,0.16,8.98,Medium
+US-9265-4847,2021-05-29,JM-9745,Consumer,South,United States,TEC-43006,Office Supplies,Storage,1883.27,5,0.08,297.25,Critical
+US-5448-1592,2021-11-05,RH-1260,Corporate,South,United States,TEC-75700,Furniture,Tables,6701.8,14,0.14,409.83,Low
+US-1970-2718,2019-03-23,RH-7771,Corporate,East,United States,TEC-84927,Furniture,Tables,8348.84,18,0.11,1003.78,Medium
+US-4281-1768,2020-06-05,CA-6014,Corporate,West,United States,TEC-41262,Furniture,Tables,2729.57,4,0.1,346.95,Critical
+US-2216-7716,2021-11-06,JM-5043,Consumer,South,United States,TEC-63314,Office Supplies,Binders,5038.14,10,0.16,-415.45,Low
+US-2627-5494,2019-07-05,CA-5845,Home Office,Central,United States,TEC-11054,Furniture,Tables,1102.86,16,0.07,75.27,Medium
+US-9113-5237,2022-02-02,JM-6344,Consumer,Central,United States,TEC-59225,Furniture,Chairs,1741.38,4,0.15,84.11,Medium
+US-6390-6701,2021-09-07,RH-8338,Home Office,South,United States,TEC-45624,Technology,Accessories,2655.22,20,0.18,145.47,Medium
+US-5190-2283,2020-06-12,JM-9394,Home Office,West,United States,TEC-81882,Office Supplies,Art,9765.95,11,0.11,487.8,Medium
+US-9435-4482,2020-05-11,JM-7381,Corporate,Central,United States,TEC-79270,Technology,Computers,6914.23,7,0.06,839.83,Medium
+US-9215-8168,2019-01-13,CA-6839,Home Office,South,United States,TEC-87042,Office Supplies,Binders,2035.73,10,0.25,-121.3,Low
+US-9145-9705,2021-04-23,CA-6302,Home Office,South,United States,TEC-59733,Technology,Computers,2919.88,14,0.07,307.13,Critical
+US-3428-5177,2019-12-21,JM-5422,Consumer,South,United States,TEC-20297,Office Supplies,Binders,2450.0,3,0.13,1.73,Low
+US-2944-7647,2019-05-12,RH-8115,Corporate,Central,United States,TEC-91154,Office Supplies,Storage,7044.37,16,0.08,-60.72,Low
+US-8598-8258,2021-06-08,RH-3732,Corporate,Central,United States,TEC-20169,Technology,Accessories,7841.13,20,0.26,-1472.76,Low
+US-2530-5266,2021-05-28,RH-9098,Corporate,South,United States,TEC-34984,Furniture,Furnishings,2952.83,1,0.09,115.15,Medium
+US-1255-6288,2020-11-11,JM-9167,Corporate,South,United States,TEC-81228,Office Supplies,Storage,6158.91,8,0.03,1042.97,Critical
+US-4210-3636,2019-08-23,JM-7175,Corporate,Central,United States,TEC-77540,Office Supplies,Storage,9946.51,17,0.12,429.88,Medium
+US-3861-2483,2020-01-16,CA-4274,Consumer,West,United States,TEC-59266,Technology,Phones,2156.53,2,0.15,-78.69,Critical
+US-7580-7302,2020-07-22,JM-4325,Consumer,West,United States,TEC-44721,Technology,Computers,5135.8,10,0.19,286.24,Critical
+US-4894-7329,2022-01-10,RH-9989,Consumer,East,United States,TEC-74284,Office Supplies,Binders,3296.53,6,0.06,-6.78,Medium
+US-3964-2965,2019-05-08,RH-2633,Home Office,Central,United States,TEC-77789,Office Supplies,Art,4574.31,10,0.11,467.1,Critical
+US-3386-6827,2021-04-12,RH-6446,Home Office,East,United States,TEC-58293,Office Supplies,Binders,7587.53,17,0.05,407.67,Critical
+US-4717-3406,2019-10-18,RH-2998,Consumer,Central,United States,TEC-57595,Technology,Phones,290.33,9,0.04,42.11,Low
+US-1091-3427,2022-02-10,RH-7309,Home Office,East,United States,TEC-77976,Office Supplies,Art,9131.46,6,0.21,-1374.46,Critical
+US-5727-7319,2021-10-20,JM-9619,Corporate,Central,United States,TEC-31888,Technology,Phones,2482.55,19,0.13,187.78,Low
+US-1631-3812,2019-06-06,RH-3736,Corporate,West,United States,TEC-29070,Technology,Computers,6708.63,2,0.22,-301.46,Critical
+US-8247-3963,2019-05-05,JM-1892,Consumer,Central,United States,TEC-81691,Furniture,Tables,9153.07,1,0.19,-913.79,Critical
+US-4874-7650,2019-07-24,JM-9313,Consumer,South,United States,TEC-96317,Furniture,Tables,7769.78,10,0.29,-1383.02,Critical
+US-1729-8009,2020-06-25,JM-3819,Corporate,Central,United States,TEC-62663,Furniture,Furnishings,983.51,10,0.1,76.85,Critical
+US-9346-8526,2019-11-02,CA-5661,Home Office,East,United States,TEC-74373,Furniture,Chairs,7973.81,7,0.2,186.52,Critical
+US-2653-2932,2020-06-07,JM-1420,Home Office,East,United States,TEC-82090,Technology,Accessories,9818.94,12,0.27,-1039.51,Medium
+US-1246-7724,2019-04-12,RH-2752,Consumer,South,United States,TEC-28245,Technology,Phones,2841.59,17,0.1,60.64,Low
+US-3263-4698,2020-05-24,RH-2581,Consumer,West,United States,TEC-56444,Office Supplies,Binders,5083.95,16,0.03,750.94,Critical
+US-7502-5967,2021-02-25,RH-5725,Corporate,East,United States,TEC-40638,Office Supplies,Art,179.04,20,0.24,-18.7,Low
+US-6719-6429,2021-09-06,CA-5009,Corporate,Central,United States,TEC-62399,Office Supplies,Storage,5447.43,19,0.14,-160.79,Medium
+US-3858-3578,2022-10-09,RH-3967,Corporate,South,United States,TEC-43249,Furniture,Chairs,8625.54,10,0.11,60.31,Medium
+US-5012-6673,2022-10-11,CA-7988,Home Office,West,United States,TEC-18158,Furniture,Chairs,9721.4,19,0.24,-866.08,Medium
+US-4559-4579,2021-05-27,RH-6555,Consumer,South,United States,TEC-21986,Furniture,Chairs,4444.18,2,0.09,-52.71,Low
+US-7849-7487,2022-10-07,CA-2745,Corporate,West,United States,TEC-49945,Furniture,Chairs,7884.78,19,0.28,-1396.36,Low
+US-9756-1139,2020-11-13,CA-9926,Corporate,Central,United States,TEC-19334,Technology,Phones,1987.35,19,0.22,23.13,Low
+US-4242-9058,2022-10-27,CA-1138,Corporate,East,United States,TEC-65550,Technology,Computers,6838.44,19,0.07,23.75,Medium
+US-4130-1685,2020-09-05,RH-9988,Corporate,East,United States,TEC-34517,Office Supplies,Art,6051.74,18,0.13,12.07,Low
+US-3013-3535,2021-07-19,CA-7558,Consumer,West,United States,TEC-78384,Furniture,Chairs,2266.25,6,0.02,355.47,Medium
+US-4580-1140,2020-09-27,RH-8041,Home Office,South,United States,TEC-45525,Office Supplies,Art,1401.46,13,0.09,113.55,Low
+US-5290-1434,2019-03-02,JM-9950,Home Office,Central,United States,TEC-21304,Furniture,Tables,7778.68,18,0.19,-794.4,Critical
+US-9207-6595,2021-10-01,CA-2135,Consumer,East,United States,TEC-54826,Office Supplies,Art,1540.49,3,0.08,105.41,Medium
+US-1827-1281,2021-12-31,RH-9841,Home Office,Central,United States,TEC-22500,Office Supplies,Binders,516.72,12,0.16,45.28,Critical
+US-9605-8838,2022-06-19,CA-3683,Consumer,West,United States,TEC-96348,Office Supplies,Art,5242.15,4,0.09,44.13,Medium
+US-3783-6585,2021-05-09,CA-9604,Home Office,East,United States,TEC-86832,Furniture,Tables,1079.29,19,0.24,-96.53,Critical
+US-7998-9004,2020-04-22,CA-1564,Corporate,East,United States,TEC-97548,Furniture,Tables,4569.84,13,0.04,594.97,Critical
+US-3945-4237,2019-01-19,CA-3585,Corporate,South,United States,TEC-84050,Technology,Accessories,1546.26,8,0.1,75.56,Critical
+US-4980-8048,2021-11-05,JM-6951,Consumer,East,United States,TEC-44445,Technology,Phones,6187.28,20,0.3,-485.95,Critical
+US-6144-9648,2019-03-09,JM-9908,Consumer,South,United States,TEC-57402,Furniture,Tables,7803.08,1,0.06,1263.93,Critical
+US-5125-9032,2019-03-26,CA-3856,Consumer,East,United States,TEC-60797,Technology,Computers,7310.81,12,0.24,-190.38,Medium
+US-1341-2550,2022-05-22,RH-7694,Home Office,South,United States,TEC-97713,Technology,Computers,6909.4,4,0.28,-1492.11,Low
+US-4673-7345,2021-04-21,JM-2246,Corporate,Central,United States,TEC-66532,Furniture,Chairs,9011.38,16,0.2,-1219.54,Critical
+US-1933-9979,2021-03-19,RH-6613,Corporate,East,United States,TEC-81037,Furniture,Tables,4477.79,4,0.22,-167.78,Medium
+US-7374-3730,2019-03-18,RH-9669,Corporate,Central,United States,TEC-45270,Technology,Phones,3032.93,3,0.05,15.43,Low
+US-6800-8614,2021-11-10,CA-4049,Home Office,Central,United States,TEC-24645,Furniture,Furnishings,9748.98,14,0.29,-2308.66,Medium
+US-7600-2875,2019-06-19,JM-2964,Consumer,South,United States,TEC-41670,Office Supplies,Storage,552.63,10,0.12,-28.51,Low
+US-2676-6663,2022-12-07,CA-1876,Home Office,West,United States,TEC-87587,Office Supplies,Binders,5148.5,14,0.12,105.33,Medium
+US-6053-5271,2022-07-25,CA-8065,Corporate,West,United States,TEC-21737,Office Supplies,Binders,4222.32,4,0.09,-163.82,Low
+US-8620-7969,2022-06-04,RH-3907,Corporate,South,United States,TEC-92582,Office Supplies,Binders,950.93,9,0.16,-53.94,Medium
+US-6822-1801,2022-01-17,JM-7245,Home Office,South,United States,TEC-63296,Technology,Computers,4282.5,20,0.29,-909.6,Medium
+US-8010-3465,2021-07-25,JM-8315,Home Office,South,United States,TEC-13133,Technology,Computers,2323.05,14,0.2,11.5,Medium
+US-4433-8946,2019-06-28,CA-9691,Corporate,East,United States,TEC-58794,Furniture,Chairs,6749.38,13,0.29,-782.18,Medium
+US-1523-2129,2019-01-11,JM-1935,Home Office,Central,United States,TEC-34792,Office Supplies,Storage,5591.14,9,0.05,885.16,Low
+US-1492-7595,2020-07-02,CA-1707,Corporate,South,United States,TEC-57584,Furniture,Tables,2372.21,4,0.02,84.55,Low
+US-1996-4996,2020-08-04,RH-1290,Home Office,East,United States,TEC-59683,Furniture,Tables,2487.81,18,0.13,6.34,Critical
+US-9214-9213,2020-12-10,JM-9429,Consumer,South,United States,TEC-12838,Furniture,Tables,2862.99,6,0.13,24.67,Critical
+US-6546-1804,2021-09-25,RH-2688,Home Office,South,United States,TEC-69043,Office Supplies,Art,2625.49,11,0.07,173.41,Critical
+US-8678-7109,2019-01-06,RH-5416,Home Office,South,United States,TEC-42174,Technology,Phones,7725.81,19,0.21,-991.72,Critical
+US-6982-6143,2020-04-17,CA-4268,Corporate,West,United States,TEC-85117,Office Supplies,Binders,8526.55,14,0.12,-41.73,Low
+US-7517-5057,2021-09-22,JM-9682,Home Office,Central,United States,TEC-80579,Office Supplies,Binders,8158.25,12,0.03,1780.1,Critical
+US-2750-7359,2022-12-26,JM-2552,Corporate,Central,United States,TEC-70615,Technology,Computers,8041.53,15,0.12,840.79,Low
+US-8957-2945,2022-11-12,CA-1689,Consumer,West,United States,TEC-56121,Office Supplies,Binders,7924.18,3,0.08,200.08,Critical
+US-9980-5311,2021-02-01,CA-1828,Corporate,East,United States,TEC-32382,Technology,Accessories,4405.69,1,0.02,812.28,Medium
+US-5689-1613,2021-09-27,RH-4075,Corporate,Central,United States,TEC-62883,Furniture,Chairs,3970.81,4,0.13,-169.48,Medium
+US-8923-1366,2022-10-13,RH-7266,Corporate,Central,United States,TEC-52867,Technology,Computers,3944.34,5,0.17,-279.4,Low
+US-1802-5645,2020-02-11,RH-7504,Corporate,East,United States,TEC-43274,Furniture,Tables,5021.31,6,0.21,55.08,Medium
+US-3325-3631,2020-02-14,RH-9740,Corporate,Central,United States,TEC-98590,Office Supplies,Art,9555.11,13,0.25,-1415.42,Low
+US-9763-4371,2020-09-17,JM-2726,Consumer,West,United States,TEC-28972,Office Supplies,Storage,783.05,20,0.23,-52.03,Medium
+US-6885-1343,2020-10-25,JM-5222,Consumer,East,United States,TEC-93531,Furniture,Chairs,1116.82,14,0.01,224.98,Medium
+US-8555-6655,2021-03-31,CA-7150,Consumer,Central,United States,TEC-37590,Office Supplies,Binders,4550.27,2,0.04,453.75,Medium
